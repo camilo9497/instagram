@@ -77,7 +77,7 @@ const datos = [
             {
                 id: 41,
                 imagen: require('../assets/señora1.jpg'),
-                descripcion: 'que bonito es tener el pelo liso, liso pero no quebradiso',
+                descripcion: 'La vida es efimera',
                 tipo: 'foto',
                 megusta: 28,
                 comentarios: [
@@ -102,7 +102,7 @@ const datos = [
             {
                 id: 51,
                 imagen: require('../assets/m1.jpg'),
-                descripcion: 'que bonito es tener el pelo liso, liso pero no quebradiso',
+                descripcion: 'que bonito es tener el pelo liso, liso pero no quebradizo',
                 tipo: 'foto',
                 megusta: 100,
                 comentarios: [
