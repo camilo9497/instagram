@@ -2,50 +2,20 @@
 const datos = [
     {
         id: 1,
-        usuario: 'tomaso123',
-        imagenPerfil: require('../assets/gato.jpg'),
+        usuario: 'camilo9497',
+        imagenPerfil: require('../assets/yo.jpg'),
         posts: [
-            {
-                id: 11,
-                imagen: require('../assets/gato.jpg'),
-                descripcion: 'alalalalala',
-                tipo: 'foto',
-                megusta: 23,
-                comentarios: [
-                    {
-                        usuario: 'algo123',
-                        contenido: 'Que bontio gatito'
-                    },
-                    {
-                        usuario: 'tomasino',
-                        contenido: 'Muchas gracias'
-                    }
-                ]
-            },
-            {
-                id: 12,
-                imagen: require('../assets/m1.jpg'),
-                descripcion: 'QJAJAJAJAJA',
-                tipo: 'foto',
-                megusta: 15,
-                comentarios: [
-                    {
-                        usuario: '123',
-                        contenido: 'Que bontio gatito'
-                    }
-                ]
-            }
         ]
     },
     {
         id: 2,
         usuario: 'eloy123',
-        imagenPerfil: require('../assets/señor1.jpg'),
+        imagenPerfil: require('../assets/papa.jpg'),
         posts: [
             {
                 id: 21,
-                imagen: require('../assets/señor1.jpg'),
-                descripcion: 'hwecklnwcklm  wkcmkljcwdn cwnkwklncw',
+                imagen: require('../assets/papa.jpg'),
+                descripcion: 'Todo bien?',
                 tipo: 'foto',
                 megusta: 5,
                 comentarios: [
@@ -55,14 +25,14 @@ const datos = [
                     },
                     {
                         usuario: 'oscaragui',
-                        contenido: 'Hola'
+                        contenido: 'Elegante'
                     }
                 ]
             },
             {
                 id: 22,
                 imagen: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                descripcion: 'wnwnndn hejeejje jenndjn',
+                descripcion: 'El trailer de la pelicula para niños',
                 tipo: 'video',
                 megusta: 18,
                 comentarios: [
@@ -81,18 +51,18 @@ const datos = [
         posts: [
             {
                 id: 31,
-                imagen: require('../assets/señor2.jpg'),
-                descripcion: 'que bonito es tener el pelo liso, liso pero no quebradiso',
+                imagen: require('../assets/estadio2.jpg'),
+                descripcion: 'Que hermoso el estadio del Real Madrid',
                 tipo: 'foto',
                 megusta: 8,
                 comentarios: [
                     {
                         usuario: 'hanna5',
-                        contenido: 'De acuerdo'
+                        contenido: 'Que belleza'
                     },
                     {
                         usuario: 'tomasino',
-                        contenido: 'si si si'
+                        contenido: 'El mejor estadio del mundo'
                     }
                 ]
             },
@@ -141,12 +111,12 @@ const datos = [
                         contenido: 'De acuerdo'
                     },
                     {
-                        usuario: 'tomasino',
-                        contenido: 'si si si'
+                        usuario: 'albertocd',
+                        contenido: 'Hola'
                     },
                     {
                         usuario: 'hanna5',
-                        contenido: 'acgfjefo'
+                        contenido: 'Linda'
                     },
                     {
                         usuario: 'tomasino',
